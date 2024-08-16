@@ -13,3 +13,9 @@ once you get enough clicks you can upgrade with the buttons on the right to boos
 i hope this is challenging!
 
 live demo recording above
+
+**self hosting instructions**
+
+1 downloand all files
+
+2 use live server and click "golive" while viewing the "main.html" file
