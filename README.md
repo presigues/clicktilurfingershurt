@@ -18,4 +18,6 @@ live demo recording above
 
 1 downloand all files
 
-2 use live server and click "golive" while viewing the "main.html" file
+2 create a new folder named whatever you want to put the files in
+
+3 use live server and click "golive" while viewing the "main.html" file
